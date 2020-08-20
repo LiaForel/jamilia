@@ -1,8 +1,8 @@
 MERN stack is used
 In the project directory, you can run:
 
-### `npm run build`
+`npm run build`
 
-### `npm start`
+`npm start`
 
-### `nodemon server.js`
+`nodemon server.js`

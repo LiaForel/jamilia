@@ -1,5 +1,6 @@
 MERN stack is used
-In the project directory, you can run:
+<br/>
+In the project directory run:
 
 `npm run build`
 
